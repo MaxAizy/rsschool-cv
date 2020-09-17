@@ -12,7 +12,7 @@
 
 ---
 
-> I am a SpbETU "LETI" third year student. I have always been delighted with programming and personal computers. And I want to do really good things in our full of information technologies world. So I ready to study a lot for people and of course for myself. I took on different hobbies and everything always works out well for me. I understand other people will not teach me each step so I learn cutting-edge technologies from any good source and it is important for me to be confident in your sphere.
+> I am a SpbETU "LETI" third year student. I have always been delighted with programming and personal computers. And I want to do really good things in our full of information technologies world. So I ready to study a lot for people and of course for myself. I took on different hobbies and everything always works out well for me. I understand other people will not teach me each step so I learn cutting-edge technologies from any good source and it is important for me to be confident in your sphere. In the future I wish to become a senior-developer.
 
 ### LANGUAGES AND TOOLS
 
