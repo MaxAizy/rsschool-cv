@@ -64,3 +64,9 @@
 - Saint-Petersburg Electrotechnical University "LETI", Saint-Petersburg, Russia
 - Faculty of computer technology and informatics (FKTI)
 - September 2018 - June 2022
+
+### ENGLISH LEVEL
+
+---
+
+> English level: **_B1_** (certified by EPAM (training.by))
