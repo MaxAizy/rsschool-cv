@@ -100,6 +100,10 @@ a {
   transition: 1s;
 }
 
+.project-img {
+  width: 200px;
+}
+
 main > section {
   width: 80%;
   margin: 20px;
