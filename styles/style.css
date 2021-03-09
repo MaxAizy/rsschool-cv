@@ -1,0 +1,146 @@
+@import url("https://fonts.googleapis.com/css?family=Prompt&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  font-family: "Prompt", sans-serif;
+}
+
+.bg {
+  background: url(../images/background.jpg);
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+header,
+main,
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+nav {
+  align-self: flex-end;
+}
+
+.top-contact-info {
+  display: flex;
+  flex-direction: row;
+  margin: 15px 20px 0 0;
+}
+
+.projects-and-icons {
+  display: flex;
+  flex-direction: row;
+}
+
+.projects-and-icons img:hover {
+  transform: scale(1.05);
+  transition: 1s;
+}
+
+.projects-and-icons img:not(:hover) {
+  transform: scale(1);
+  transition: 1s;
+}
+
+.top-contact-info img:hover,
+.bottom-contact-info img:hover {
+  transform: scale(1.2) rotateZ(5deg);
+}
+
+.top-contact-info img {
+  width: 70px;
+}
+
+.bottom-contact-info {
+  display: flex;
+  flex-direction: row;
+}
+
+.bottom-contact-info img {
+  width: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.bottom-contact-info a {
+  display: flex;
+  align-items: center;
+  margin: 0 10px 10px 10px;
+  font-weight: bold;
+}
+
+.profile-photo {
+  width: 250px;
+  height: 250px;
+  border: 4px inset #a1ffd0a4;
+  border-radius: 50%;
+  margin: 20px 0;
+  box-shadow: 0 0 20px #000000;
+}
+
+.profile-photo:hover {
+  box-shadow: 0 0 45px #000000;
+  transition: 1s;
+}
+
+.profile-photo:not(:hover) {
+  box-shadow: 0 0 20px #000000;
+  transition: 1s;
+}
+
+.project-img {
+  width: 200px;
+}
+
+main > section {
+  width: 80%;
+  margin: 20px;
+}
+
+.line {
+  height: 5px;
+  margin: 5px 0;
+  background: radial-gradient(50% 50%, #000000, transparent);
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 26px;
+}
+
+p,
+section > ul {
+  font-size: 18px;
+}
+
+footer {
+  margin-top: 20px;
+}
+
+.date-2 {
+  margin-bottom: 30px;
+}
+
+.epam-color {
+  color: #87cefa;
+  text-shadow: -0 -1px 0 #000000, 0 -1px 0 #000000, -0 1px 0 #000000,
+    0 1px 0 #000000, -1px -0 0 #000000, 1px -0 0 #000000, -1px 0 0 #000000,
+    1px 0 0 #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000,
+    1px 1px 0 #000000, -1px -1px 0 #000000, 1px -1px 0 #000000,
+    -1px 1px 0 #000000, 1px 1px 0 #000000;
+}
